@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914622329004",
+    "project_id": "fir-fb50c",
+    "storage_bucket": "fir-fb50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914622329004:android:a0d8b40785d4a0e4a7af09",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914622329004-jn0feub17gkvkpf7hoohfdp3s6clpbm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsb9-FADb7nZi_5yMSEzIPMNdecULKG-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914622329004-jn0feub17gkvkpf7hoohfdp3s6clpbm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
